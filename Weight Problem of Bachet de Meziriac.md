@@ -42,10 +42,10 @@ $$
 * 무게 $1$을 재기 위한 최소한의 추 조합은 $1$W이다. 
 * $2*1+1$의 무게를 지니는 $3$W의 추를 추가하면, $1$W, $3$W의 조합은 $\{1,2,3,4\}$ 무게를 측정할 수 있다. 여기서 $4$는 $3*1+1$에서 비롯한다. 
 * $2*4+1$의 무게를 지니는 $9$W의 추를 추가하면, $1$W, $3$W, $9$W의 조합은 $\{1,2,\dotsc, 13\}$ 무게를 측정할 수 있다. $13$은 $3*4+1$에서 나온다. 
-* 여기에 $2*13+1$의 무게를 지니는 $27$W의 추를 추가하면, $1$W, $3$W, $9$W, $27$W의 조합은  $\{1,2,\dotsc, 40\}$의 무게를 측정할 수 있다. 즉, $40-1$을
+* 여기에 $2*13+1$의 무게를 지니는 $27$W의 추를 추가하면, $1$W, $3$W, $9$W, $27$W의 조합은  $\{1,2,\dotsc, 40\}$의 무게를 측정할 수 있다. 즉, $40-1$을 $3$으로 나는 숫자. 
 
 :feet:Jun Sok Huhh | :house:[lostineonomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDQzNjY2MSwtMTA5NTYxMzA4LDEzMD
-Y4Mjg0ODldfQ==
+eyJoaXN0b3J5IjpbLTY0NjAzMDQ1LC0xMDk1NjEzMDgsMTMwNj
+gyODQ4OV19
 -->
