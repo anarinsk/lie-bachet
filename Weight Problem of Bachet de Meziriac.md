@@ -44,14 +44,16 @@ $$
 * $2*4+1$의 무게를 지니는 $9$W의 추를 추가하면, $1$W, $3$W, $9$W의 조합은 $\{1,2,\dotsc, 13\}$ 무게를 측정할 수 있다. $13$은 $3*4+1$에서 나온다. 
 * 여기에 $2*13+1$의 무게를 지니는 $27$W의 추를 추가하면, $1$W, $3$W, $9$W, $27$W의 조합은  $\{1,2,\dotsc, 40\}$의 무게를 측정할 수 있다. 표로 정리해보자. 
 
-|추가로 필요한 추| 측정 가능한 무게 한계  |
+|추가로 필요한 추의 무게| 측정 가능한 무게 상한  |
 |--|--|
 | $1$ | $1$ |
 | $2\times 1 + 1 = 3$ | $3 \times 1 + 1 = 4$  |
 | $2\times 4 + 1 = 9$ | $3 \times 4 + 1 = 13$  |
+| $2\times 13 + 1 = 27$ | $3 \times 13 + 1 = 40$  |
+
 
 :feet:Jun Sok Huhh | :house:[lostineonomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjA5NzA2NCwtMTA5NTYxMzA4LDEzMD
-Y4Mjg0ODldfQ==
+eyJoaXN0b3J5IjpbNDIzMjkyMjM3LC0xMDk1NjEzMDgsMTMwNj
+gyODQ4OV19
 -->
