@@ -46,11 +46,12 @@ $$
 
 |추가로 필요한 추| 측정 가능한 무게 한계  |
 |--|--|
-| 1| 1 |
-| 2$\times$ 1 $\$ 1 = 3 | 3*1 + 1 = 4  |
+| $1$ | $1$ |
+| $2\times 1 + 1 = 3$ | $3 \times 1 + 1 = 4$  |
+| $2\times 4 + 1 = 9$ | $3 \times 4 + 1 = 13$  |
 
 :feet:Jun Sok Huhh | :house:[lostineonomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDU2MjE0OSwtMTA5NTYxMzA4LDEzMD
+eyJoaXN0b3J5IjpbLTg1NjA5NzA2NCwtMTA5NTYxMzA4LDEzMD
 Y4Mjg0ODldfQ==
 -->
